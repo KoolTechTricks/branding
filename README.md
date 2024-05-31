@@ -7,7 +7,7 @@ information about Kool Tech Tricks.
 
 ## Contributing
 
-You can [report an issue](https://github.com/KoolTechTricks/branding/issue/new)
+You can [report an issue](https://github.com/KoolTechTricks/branding/issues/new)
 or [suggest changes](https://github.com/KoolTechTricks/branding/compare)
 if you want to improve branding. Your changes will be available under
 [the same license](#License) this repostory has.

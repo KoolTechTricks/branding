@@ -7,7 +7,7 @@ _[English](/README.md)_
 
 ## Внести свой вклад
 
-Вы можете [сообщить о проблеме](https://github.com/KoolTechTricks/branding/issue/new)
+Вы можете [сообщить о проблеме](https://github.com/KoolTechTricks/branding/issues/new)
 или [предложить изменения](https://github.com/KoolTechTricks/branding/compare),
 если вы хотите улучшить брендинг. Ваши изменения будут доступны по
 [той же самой лицензии](#Лицензия), что и этот репозиторий.
