@@ -7,6 +7,7 @@
 |Codeberg|https://codeberg.org/KoolTechTricks|en/ru|Inactive|2023-08-26|https://codeberg.org/KoolTechTricks.atom
 |Neocities|https://kooltechtricks.neocities.org|ru|Active|2023-08-27|https://kooltechtricks.neocities.org/feed.atom
 |Mastodon|https://lor.sh/@KoolTechTricks|ru|Active|2024-03-15|https://lor.sh/@KoolTechTricks.rss
+|YouTube|https://www.youtube.com/@KoolTechTricks|ru|Reserved|2024-06-06|https://www.youtube.com/feeds/videos.xml?channel_id=UCpgXGvl34e24uhdtaO51Fqg
 
 # Contacts
 
